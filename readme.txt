@@ -1,0 +1,1 @@
+this is me crash coursing on Cs 50 Ai with python course by harward 
